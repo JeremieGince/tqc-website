@@ -61,7 +61,7 @@ enableMissingTranslationPlaceholders = true
   city = "Sherbrooke, Québec, Canada"
   timeanddate_cityid = 165
   themeColor = "#d71d1f"
-  [params.2025.logos]
+  [params.2026.logos]
     jumbo = "/images/2026/background-2026.png"
     header = "/images/2026/tqc-logo-2026.png"
     banner = "/images/2026/banner-2026.jpg"
